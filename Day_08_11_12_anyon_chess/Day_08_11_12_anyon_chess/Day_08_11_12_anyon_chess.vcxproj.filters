@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\game.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
+    <ClCompile Include="game.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="text.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\text.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\game.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
+    <ClInclude Include="game.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

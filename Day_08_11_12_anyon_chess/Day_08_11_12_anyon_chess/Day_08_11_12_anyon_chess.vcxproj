@@ -115,11 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\game.h" />
+    <ClCompile Include="game.c" />
+    <ClCompile Include="text.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\game.c" />
-    <ClCompile Include="..\..\..\VS代码\text_11_12_my_one\text_11_12_my_one\text.c" />
+    <ClInclude Include="game.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

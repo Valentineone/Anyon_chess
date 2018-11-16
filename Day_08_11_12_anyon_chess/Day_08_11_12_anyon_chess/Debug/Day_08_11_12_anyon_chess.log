@@ -1,13 +1,1 @@
-﻿  game.c
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\game.h(3): warning C4068: 未知的杂注
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\game.c(34): warning C4013: “Judge”未定义；假设外部返回 int
-  text.c
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\game.h(3): warning C4068: 未知的杂注
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\text.c(10): warning C4133: “函数”: 从“int [10][10]”到“char (*)[10]”的类型不兼容
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\text.c(14): warning C4013: “printf”未定义；假设外部返回 int
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\text.c(15): warning C4013: “scanf”未定义；假设外部返回 int
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\text.c(20): warning C4047: “函数”:“char (*)[10]”与“int *”的间接级别不同
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\text.c(20): warning C4024: “Game”: 形参和实参 1 的类型不同
-  正在生成代码...
-f:\program files (x86)\microsoft visual studio\vs代码\text_11_12_my_one\text_11_12_my_one\game.c(76): warning C4715: “Judge”: 不是所有的控件路径都返回值
-  Day_08_11_12_anyon_chess.vcxproj -> F:\Program Files (x86)\Microsoft Visual Studio\VSCode\Day_08_11_12_anyon_chess\Debug\Day_08_11_12_anyon_chess.exe
+﻿  Day_08_11_12_anyon_chess.vcxproj -> F:\Program Files (x86)\Microsoft Visual Studio\VSCode\Anyon_chess\Day_08_11_12_anyon_chess\Debug\Day_08_11_12_anyon_chess.exe
